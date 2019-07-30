@@ -6,7 +6,7 @@
 ![Alt text](https://github.com/sharan-dce/face-detection-recognition/blob/master/samples/test_image_3.jpg)
 ![Alt text](https://github.com/sharan-dce/face-detection-recognition/blob/master/samples/test_image_4.jpg)
 ![Alt text](https://github.com/sharan-dce/face-detection-recognition/blob/master/samples/test_image_5.jpg)
-![Alt text](https://github.com/sharan-dce/face-detection-recognition/blob/master/samples/test_image_6.jpg)
+![Alt text](https://github.com/sharan-dce/face-detection-recognition/blob/master/samples/test_image_6.png)
 
 # Sample Video
 https://drive.google.com/file/d/1VZamGZdyFyJd1sNG2m3QScRvKZjyFeiV/view?usp=sharing
