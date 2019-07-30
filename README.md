@@ -16,7 +16,7 @@ Clone the repo:
 git clone https://github.com/sharan-dce/face-detection-recognition.git
 
 ## Training over your images
-Store tightly cropped faces, to be recognized in a directory and negative ones in another.
+Store tightly cropped faces to be recognized in a directory and negative ones in another.
 Run the core.py file with arguments as the path to the positive directory and the negative one.
 python3 core.py --train true --positives_dir ./path_to_the_positive_directory --negatives_dir ./path_to_the_negative_directory
 
