@@ -1,3 +1,4 @@
+This directory has been taken and modified from David Sandberg's FaceNet's implementation (https://github.com/davidsandberg/facenet)
 # Face Recognition using Tensorflow [![Build Status][travis-image]][travis]
 
 [travis-image]: http://travis-ci.org/davidsandberg/facenet.svg?branch=master
