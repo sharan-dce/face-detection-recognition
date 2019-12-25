@@ -1,5 +1,8 @@
 # FaceRecognition
 
+# Credits:
+David Sandberg for FaceNet's implementation (https://github.com/davidsandberg/facenet)
+
 # Samples
 ![Alt text](https://github.com/sharan-dce/face-detection-recognition/blob/master/samples/test_image_1.jpg)
 ![Alt text](https://github.com/sharan-dce/face-detection-recognition/blob/master/samples/test_image_2.jpg)
@@ -24,5 +27,3 @@ python3 core.py --input_image_path ./input_image_path --output_image_path ./outp
 ## Running over videos
 python3 core.py --input_video_path ./input_video_path --output_video_path ./output_video_path
 
-# Credits:
-David Sandberg for FaceNet's implementation (https://github.com/davidsandberg/facenet)
